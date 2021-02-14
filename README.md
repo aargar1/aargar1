@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aargar1
+- 👀 I’m interested in arduinos, web devlopment, and writing
+- 🌱 I’m currently learning the arduino and raspberry pi
+- 💞️ I’m looking to collaborate on web devlopment in python
+- 📫 How to reach me: me@aaravgarg.me
